@@ -19,7 +19,7 @@
 - :school: I am a `Senior lead developer` at **Ben Dover Developments inc.** in **Jennytayla, Tenesee**
 - :trophy: `2022 Nay Giggers` Finalist **&** 4x `Huge Jazz` contest winner
 - :technologist: **Currently working on** `Stealing your boyriend` **&** `your gf too`
-- :boom: You can visit [MY WEBSITE](https://boulderbugle.com/54qyhhe8) for some frontend knowledge
+- :boom: You can visit [MY WEBSITE](https://boulderbugle.com/54qyhhe8) to learn more about me
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Femboy-Engineering&amp;color=EA4335&amp;style=flat-square)](mailto:sugon@deez.nutz)
 - :nerd_face: `"I recognize only one duty and that is to love"` - Albert camus
 
