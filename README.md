@@ -17,11 +17,11 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `Senior lead developer` at **Ben Dover Developments inc.** in **Jennytayla, Tenesee**
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
+- :trophy: `2022 Nay Giggers` Finalist **&** 4x `Huge Jazz` contest winner
 - :technologist: **Currently working on** `Stealing your boyriend` **&** `your gitlfriend too`
 - :boom: You can visit [MY WEBSITE](https://boulderbugle.com/54qyhhe8) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Femboy-Engineering&amp;color=EA4335&amp;style=flat-square)](mailto:sugon@deez.nutz)
-- :nerd_face: Always believe `"You are what you loved"`
+- :nerd_face: `"I recognize only one duty and that is to love"` - Albert camus
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
